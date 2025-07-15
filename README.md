@@ -1,2 +1,2 @@
-# DesignedByDivya
+# UXDesigner
 
